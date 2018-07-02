@@ -30,7 +30,7 @@ Elementary arithmetic
 		numder2: 5
 		2 * 5 = 10
 
-Typing the wrong text will stop working and output "plz number"
-You can enter an operator with a space  ex: 「    +」or「+    」
-
+Typing the wrong text will stop working and output "plz number" ＜/br＞
+You can enter an operator with a space  ex: 「    +」or「+    」 ＜/br＞
+＜/br＞
 improve!
