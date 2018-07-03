@@ -36,3 +36,13 @@ Typing the wrong text will stop working and output "plz number"
   
   
 improve!
+
+## crawler and write
+
+data from 臺北市政府資料開放平台  
+Open the website and write the specified content to the company.txt
+  
+  
+  FML 
+
+
