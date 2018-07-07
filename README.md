@@ -45,4 +45,32 @@ Open the website and write the specified content to the company.txt
   
   FML 
 
+## prtstar.py
+output "*" into triangles 
 
+	type A
+		* 
+		**
+		***
+		****
+		*****
+		
+	type B
+		     *
+		    **
+		   ***
+		  ****
+		 *****
+		 
+	type C 
+		     *
+		    ***
+		   *****
+		  *******
+		 *********
+	type D 
+		 *********
+		  *******
+		   *****
+		    ***
+		     *
